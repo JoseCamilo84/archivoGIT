@@ -1,9 +1,8 @@
 console.log("Aprendiendo Git");
 let semana = ["Lunes", "Martes", "Miercoles"];
-const saludar = () => {
-    return (
-        "Hola"
-    );
+const persona = {
+    nombre: "Jose Camilo",
+    apellidos: "Rodriguez Vera",
+    edad: 38,
+    developer: true
 };
-
-saludar();
