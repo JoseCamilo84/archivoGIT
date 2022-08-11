@@ -1,4 +1,10 @@
 html {
-  background-color: orange;
+  background-color: rgb(48, 47, 45);
   color: beige;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
 }
